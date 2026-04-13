@@ -1,0 +1,18 @@
+{
+  "architecture": {
+    "64bit": {
+      "bin": "cfgd.exe",
+      "hash": "",
+      "url": "https://github.com/tj-smith47/cfgd/releases/download/v0.3.3/cfgd-0.3.3-windows-amd64.zip"
+    },
+    "arm64": {
+      "bin": "cfgd.exe",
+      "hash": "",
+      "url": "https://github.com/tj-smith47/cfgd/releases/download/v0.3.3/cfgd-0.3.3-windows-arm64.zip"
+    }
+  },
+  "description": "Declarative, GitOps-style machine configuration management",
+  "homepage": "https://github.com/tj-smith47/cfgd",
+  "license": "MIT",
+  "version": "0.3.3"
+}
