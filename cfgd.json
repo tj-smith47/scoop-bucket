@@ -2,12 +2,12 @@
   "architecture": {
     "64bit": {
       "bin": "cfgd.exe",
-      "hash": "27330077e85311b1cc8e33c01c9330d1c9ceb98a00fbf8987885fabbfda4da36",
+      "hash": "8e64bbe1763f69442cf2cfffbae9f40c7e5827dd0f7d5dc66e302fb81c22a0e9",
       "url": "https://github.com/tj-smith47/cfgd/releases/download/v0.3.5/cfgd-0.3.5-windows-amd64.zip"
     },
     "arm64": {
       "bin": "cfgd.exe",
-      "hash": "55aa1d4c8248efa453752c37927e36c0ade976692bd7babd7716526abf7be7ca",
+      "hash": "db86d0aacf36bafe0d2da2e0871744df59dd3898aabebfb1102a5fafe87160c8",
       "url": "https://github.com/tj-smith47/cfgd/releases/download/v0.3.5/cfgd-0.3.5-windows-arm64.zip"
     }
   },
