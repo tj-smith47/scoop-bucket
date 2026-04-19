@@ -1,10 +1,10 @@
 # scoop-bucket
 
-Scoop bucket for [anodize](https://github.com/tj-smith47/anodize).
+Scoop bucket for [anodizer](https://github.com/tj-smith47/anodizer).
 
 ## Usage
 
 ```powershell
-scoop bucket add anodize https://github.com/tj-smith47/scoop-bucket
-scoop install anodize
+scoop bucket add anodizer https://github.com/tj-smith47/scoop-bucket
+scoop install anodizer
 ```
