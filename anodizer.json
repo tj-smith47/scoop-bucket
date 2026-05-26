@@ -4,15 +4,15 @@
       "bin": [
         "anodizer.exe"
       ],
-      "hash": "",
-      "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.4.0/anodizer-0.4.0-windows-amd64.zip"
+      "hash": "622e6e3a566eea8b5e3b5a0201a59e1fd94c4d4e137009bd5073380e277bd90e",
+      "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.5.0/anodizer-0.5.0-windows-amd64.zip"
     },
     "arm64": {
       "bin": [
         "anodizer.exe"
       ],
-      "hash": "",
-      "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.4.0/anodizer-0.4.0-windows-arm64.zip"
+      "hash": "5a4ee930926f6f039c55f3e63f575f34d59f5e923c82ad220cdcc3079c34d67f",
+      "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.5.0/anodizer-0.5.0-windows-arm64.zip"
     }
   },
   "depends": [
@@ -27,5 +27,5 @@
       "Anodizer"
     ]
   ],
-  "version": "0.4.0"
+  "version": "0.5.0"
 }
