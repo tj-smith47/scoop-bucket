@@ -1,18 +1,31 @@
 {
   "architecture": {
     "64bit": {
-      "bin": "cfgd.exe",
-      "hash": "fcc305a85fb9835e9dc5472af7025f086b5435cdf1a741f88f6d755990a5e86e",
-      "url": "https://github.com/tj-smith47/cfgd/releases/download/v0.3.5/cfgd-0.3.5-windows-amd64.zip"
+      "bin": [
+        "cfgd.exe"
+      ],
+      "hash": "37ca040556665be0e559fd82b540eb5241b106a9f3eee62867196a16951f11d2",
+      "url": "https://github.com/tj-smith47/cfgd/releases/download/v0.4.0/cfgd-0.4.0-windows-amd64.zip"
     },
     "arm64": {
-      "bin": "cfgd.exe",
-      "hash": "60f912d01d599e5edd72b6db8bd500cc62c8cd86e61ca0fb647b51144ab5307b",
-      "url": "https://github.com/tj-smith47/cfgd/releases/download/v0.3.5/cfgd-0.3.5-windows-arm64.zip"
+      "bin": [
+        "cfgd.exe"
+      ],
+      "hash": "c7ee717a63e38857752a4c65d058251db589f89b48db3e083f33d1270ae21a33",
+      "url": "https://github.com/tj-smith47/cfgd/releases/download/v0.4.0/cfgd-0.4.0-windows-arm64.zip"
     }
   },
+  "depends": [
+    "git"
+  ],
   "description": "Declarative, GitOps-style machine configuration management",
   "homepage": "https://github.com/tj-smith47/cfgd",
   "license": "MIT",
-  "version": "0.3.5"
+  "shortcuts": [
+    [
+      "cfgd.exe",
+      "cfgd"
+    ]
+  ],
+  "version": "0.4.0"
 }
