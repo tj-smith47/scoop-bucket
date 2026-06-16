@@ -6,14 +6,14 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.10.0/anodizer-0.10.0-windows-amd64.zip",
-      "hash": "15b8b307c6390bc67c76fe37a9735d84bfff20979bb6b27ac2a4a6ff36b62e8a",
+      "hash": "d08233dc0f081889eabf817f6f4158329e3bee7949634c489c08780d2b3a5c13",
       "bin": [
         "anodizer.exe"
       ]
     },
     "arm64": {
       "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.10.0/anodizer-0.10.0-windows-arm64.zip",
-      "hash": "8311e3d731b693b39e2fce4dd2604bab4c06dfedfee04aa16c9d9c3714314370",
+      "hash": "137d5d1970f81da638311763a683ab006c5bf2f17a4b88d30925404f96d08500",
       "bin": [
         "anodizer.exe"
       ]
