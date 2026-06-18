@@ -1,19 +1,19 @@
 {
-  "version": "0.11.0",
+  "version": "0.11.1",
   "description": "A Rust-native release automation tool",
   "homepage": "https://github.com/tj-smith47/anodizer",
   "license": "MIT OR Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.11.0/anodizer-0.11.0-windows-amd64.zip",
-      "hash": "88604cffdb2fabf0b4303c2a3a935aa31418bb4d45f22aca6225a940f528dba6",
+      "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.11.1/anodizer-0.11.1-windows-amd64.zip",
+      "hash": "5c38f8ce8d57a0e236a9e554786d13738ec86be18498631b8bf9785e826b0d40",
       "bin": [
         "anodizer.exe"
       ]
     },
     "arm64": {
-      "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.11.0/anodizer-0.11.0-windows-arm64.zip",
-      "hash": "deb24cee846f96ea7d4f485fdb1c44e7da2dd5b5674ec2f4d28837ab0ad9cb26",
+      "url": "https://github.com/tj-smith47/anodizer/releases/download/v0.11.1/anodizer-0.11.1-windows-arm64.zip",
+      "hash": "eb1a61aa1c0315bf25ac666fa45702a829b77d6b9ed5191930bae6a76562be67",
       "bin": [
         "anodizer.exe"
       ]
